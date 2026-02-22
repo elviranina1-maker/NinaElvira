@@ -1,0 +1,13 @@
+# Script de calcul de décroissance radioactive pour la Physique Médicale
+import math
+
+def calculate_activity(initial_activity, time_passed, half_life):
+    # Formule : A = A0 * e^(-ln(2) * t / T1/2)
+    return initial_activity * math.exp(-0.693 * time_passed / half_life)
+
+# Exemple : Technétium-99m (Demi-vie = 6 heures)
+A0 = 100 # Activité initiale en mCi
+T = 12   # Temps écoulé (12 heures)
+T_half = 6 # Demi-vie
+
+print(f"Activité restante du Tc-99m après {T}h : {calculate_activity(A0, T, T_half)} mCi")
