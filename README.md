@@ -1,9 +1,9 @@
-# Welcome to my Medical Physics Research Journey! 🔬⚛️
+# Welcome to my Radiological Sciences and Medical Imaging Research Journey! 🔬⚛️
 Hello! I am **Nina Elvira AKA**, a Senior Medical Imaging Technician from **INFAS (Ivory Coast)**. 
 My goal is to bridge the gap between clinical practice and advanced medical technology through the **Global Korea Scholarship (GKS) 2027**.
 
 ## 🎯 My Research Focus
-I am currently preparing for my Master’s in **Medical Physics** in South Korea, focusing on:
+I am currently preparing for my Master’s in **Radiological Sciences and Medical Imaging** in South Korea, focusing on:
 - **AI-Driven Diagnostics:** Optimizing image quality and diagnostic reliability.
 - **Radiotherapy Planning:** Using Deep Learning (CNNs) for automated organ segmentation.
 - **Radiation Safety:** Enhancing dosimetry protocols for patient protection
